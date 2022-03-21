@@ -1,0 +1,70 @@
+.barra {
+    background-color: #fff;
+    color: #262626;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.mounstruo {
+    width: 45px;
+}
+
+.videoprincipal {
+    width: 311px;
+    height: 552.875px;
+}
+
+.amarillo {
+    background-color: #FFFC00;
+    width: 100%;
+}
+
+.texto1 {
+    font-size: 42px;
+    color: #000000;
+}
+
+
+.formulario2 {
+    width: 335px;
+    height: 42px;
+}
+
+.clic {
+    width: 424px;
+    height: 24px;
+    font-size: 12px;
+}
+
+.datos {
+    width: 424px;
+    height: 24px;
+    font-size: 12px;
+}
+
+.app {
+    height: 40px;
+    width: 135px;
+}
+
+.google {
+    height: 40px;
+    width: 135px;
+}
+
+.politica, .condiciones {
+    color: #3CB2E2
+}
+
+.foot {
+    width: 100%;
+
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+}
+
+.negro {
+    background-color: #000000;
+    height: 70px;
+}
